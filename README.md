@@ -1,4 +1,4 @@
-# collectionbuilder-gh
+# "A Shaky Truce": Starkville Civil Rights Struggles, 1960-1980
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
