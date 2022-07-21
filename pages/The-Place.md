@@ -42,6 +42,3 @@ Starkville Racial Dot Map, 2010
 
 <<<<<<< HEAD
 {% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/ %}
-=======
-The Racial Dot Map, demographics.coopercenter.org/DotMap/-->
->>>>>>> 4fa7327e7ffd52a554b1489042daa37e49e612ea
