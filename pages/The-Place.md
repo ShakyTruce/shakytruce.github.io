@@ -3,7 +3,7 @@ title: The Place
 layout: about
 permalink: /place.html
 ---
-{% include feature/image-external.html src="https://scholarsjunction.msstate.edu/mss-rob-sad-wier-papers/1/" width="75" caption="'African-Americans waiting for train, Starkville, 1/1923,' (Wier) Robert and Sadye papers, Special Collections Department, Mississippi State University" %}
+{% include feature/image-external.html src="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" width="75" caption="'African-Americans waiting for train, Starkville, 1/1923,' (Wier) Robert and Sadye papers, Special Collections Department, Mississippi State University" %}
 
 {% include feature/nav-menu.html sections="History of Starkville;Demographics;Maps of Starkville, 1947-2010" %}
 
