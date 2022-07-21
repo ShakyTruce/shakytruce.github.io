@@ -30,14 +30,13 @@ As the maps below detail, Starkville was also a racially segregated town.  At th
 
 ## Maps of Starkville, 1947-2010
 
-African American Starkville, ca. 1960-1974.
-{% include feature/image.html objectid="coll-msu-067" caption="From Sadye Wier with John Marszalek, A Black Businessman in White Mississippi, 1886-1974 (Jackson: University Press of Mississippi), 1977. Reproduced courtesy of the University Press of Mississippi." %}
+{% include feature/image.html objectid="coll-msu-067;coll-msu-065;coll-msu-066" %}
 
 
-African American Neighborhoods, 1947-1975
+<!--African American Neighborhoods, 1947-1975
 
-{% include feature/image.html objectid="coll-scr-001" caption="From Luceille Liston Mitlin, The Historical Development of Land Use in Starkville, MS, A Small University City, (MA Thesis: Mississippi State University, 1975), Special Collections, University Archives, Mississippi State University Libraries." %}
+{% include feature/image.html objectid="coll-msu-065" caption="From Luceille Liston Mitlin, The Historical Development of Land Use in Starkville, MS, A Small University City, (MA Thesis: Mississippi State University, 1975), Special Collections, University Archives, Mississippi State University Libraries." %}
 
 Starkville Racial Dot Map, 2010
 
-{% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/" %}
+{% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/" %}-->
