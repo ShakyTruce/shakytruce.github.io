@@ -40,5 +40,4 @@ African American Neighborhoods, 1947-1975
 
 Starkville Racial Dot Map, 2010
 
-<<<<<<< HEAD
 {% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/ %}
