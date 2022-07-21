@@ -3,7 +3,7 @@ title: The Place
 layout: about
 permalink: /place.html
 ---
-{% include feature/image.html objectid="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" width="75" caption="'African-Americans waiting for train, Starkville, 1/1923,' (Wier) Robert and Sadye papers, Special Collections Department, Mississippi State University" %}
+{% include feature/image.html objectid="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" width="75" caption="African-Americans waiting for train, Starkville, 1/1923, (Wier) Robert and Sadye papers, Special Collections Department, Mississippi State University" %}
 
 {% include feature/nav-menu.html sections="History of Starkville;Demographics;Maps of Starkville, 1947-2010" %}
 
@@ -36,8 +36,8 @@ African American Starkville, ca. 1960-1974.
 
 African American Neighborhoods, 1947-1975
 
-{% include feature/image.html objectid="coll-scr-001" caption="From Luceille Liston Mitlin, “The Historical Development of Land Use in Starkville, MS, A Small University City,” (MA Thesis: Mississippi State University, 1975), Special Collections, University Archives, Mississippi State University Libraries. %}
+{% include feature/image.html objectid="coll-scr-001" caption="From Luceille Liston Mitlin, The Historical Development of Land Use in Starkville, MS, A Small University City, (MA Thesis: Mississippi State University, 1975), Special Collections, University Archives, Mississippi State University Libraries." %}
 
 Starkville Racial Dot Map, 2010
 
-{% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/ %}
+{% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/" %}
