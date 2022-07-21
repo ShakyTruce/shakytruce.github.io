@@ -23,6 +23,7 @@ Unlike many places in Mississippi, Starkville saw significant population growth 
 
 As the maps below detail, Starkville was also a racially segregated town.  At the time of the Civil Rights Movement, African Americans were heavily concentrated in the northwest corner of town, as they had been for some time.  Today, too, this remains a predominantly African American neighborhood.
 
+> Blockquote
 | Year | Total Population | Whites | % | African Americans | % |
 | --- | ------- | ----| --- | ------------| ---- | 
 | 1960 | 9,041 | 6226 | 68.8% | 2815 | 31.20% |
