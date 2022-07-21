@@ -30,13 +30,6 @@ As the maps below detail, Starkville was also a racially segregated town.  At th
 
 ## Maps of Starkville, 1947-2010
 
-{% include feature/image.html objectid="coll-msu-067;coll-msu-065;coll-msu-066" %}
+{% include feature/image.html objectid="coll-msu-067;coll-msu-066" %}
 
-
-<!--African American Neighborhoods, 1947-1975
-
-{% include feature/image.html objectid="coll-msu-065" caption="From Luceille Liston Mitlin, The Historical Development of Land Use in Starkville, MS, A Small University City, (MA Thesis: Mississippi State University, 1975), Special Collections, University Archives, Mississippi State University Libraries." %}
-
-Starkville Racial Dot Map, 2010
-
-{% include feature/image.html objectid="coll-msu-066" caption="The Racial Dot Map, demographics.coopercenter.org/DotMap/" %}-->
+{% include feature/pdf.html objectid="coll-msu-065" width="50" %}
