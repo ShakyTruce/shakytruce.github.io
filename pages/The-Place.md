@@ -3,10 +3,10 @@ title: The Place
 layout: about
 permalink: /place.html
 ---
+{% include feature/image-external.html src="https://scholarsjunction.msstate.edu/mss-rob-sad-wier-papers/1/" width="75" %}
+
 # The Place
 ## History of Starkville
-
-{% include feature/jumbotron.html objectid="https://scholarsjunction.msstate.edu/mss-rob-sad-wier-papers/1/" %}
 
 Starkville’s history is well established. It’s told as a heroic and progressive tale of Choctaw natives giving way to white pioneers who built the original Boardtown (renamed Starkville in 1835), fought for the Confederacy, and then gradually adapted their town to suit the changing circumstances of the post-Reconstruction South. Thanks to their efforts, which were aided by the founding of Mississippi A & M College (now Mississippi State University) in 1878, twentieth-century Starkville grew to become an important center of dairying and textile production; it was home to the Cooperative Creamery, the John M. Stone Cotton Mill, and the Borden Milk Plant, the largest Borden facility in the South.  As residents watched their town grow, they boasted that Starkville was “the dairy capital of the South.”  Today, with the former textile mill converted into a newly-renovated conference center, and the Borden Milk Plant transformed into retail space, it is Mississippi State University that frames Starkville’s current identity as “Mississippi’s college town.”
 
