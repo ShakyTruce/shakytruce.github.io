@@ -3,7 +3,7 @@ title: The Struggles
 layout: about
 permalink: /struggles.html
 ---
-{% include feature/jumbotron.html objectid="coll-msu-002" title="The Struggles" text="Organizational efforts, Starkville Public Schools, and MSU" %}
+{% include feature/jumbotron.html objectid="coll-msu-046" title="The Struggles" text="Organizational efforts, Starkville Public Schools, and MSU" %}
 
 ## Segregated Education
 <!--<img src="">-->
