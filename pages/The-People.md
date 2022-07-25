@@ -12,7 +12,7 @@ Starkville Native; Daughter of MSU Employees
 
 “When Starkville integrated the schools and boycotted stores so that blacks could have jobs in the banks and retail establishments, that was accomplished, from my memory, through a lot of boycotting.”
 
-{% include feature/video.html objectid="oh-007" width="50" %}"
+{% include feature/video.html objectid="oh-007" width="50" %}
 <!--OHMS interview original URL http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=Joyce_Allen.xml--> 
 
 ## Bobby Bardwell
@@ -20,7 +20,7 @@ Henderson High School Alumnus
 
 “You know, we’re tired, we wanna register, we ought to be registered…but we pay taxes and we ought to be registered.”
 
-{% include feature/video.html objectid="oh-001" width="50" %}"
+{% include feature/video.html objectid="oh-001" width="50" %}
 
 <!--original OHMS url http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=Bobby_Bardwell.xml-->
 
@@ -29,7 +29,7 @@ Graduate of Starkville High School's First Integrated Class
 
 “When I was growing up the only white children that I knowed were the ones where my mom worked.”
 
-{% include feature/video.html objectid="oh-023" width="50" %}"
+{% include feature/video.html objectid="oh-023" width="50" %}
 <!--original OHMS url http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=Nancy_Bardwell.xml-->
 
 ## Larry Box
@@ -37,7 +37,7 @@ Former Principal of Henderson Junior High and Sudduth Elementary Schools; Starkv
 
 “The ultimate decision [of how to integrate the city’s teachers] came down to a game of chance.”
 
-{% include feature/video.html objectid="oh-016" width="50" %}"
+{% include feature/video.html objectid="oh-016" width="50" %}
 
 <!--original OHMS url http://starkvillecivilrights.msstate.edu/ohms-viewer/viewer.php?cachefile=Larry_Box.xml-->
 
@@ -70,7 +70,7 @@ MSU Alum, Former Editor of the MSU Reflector
 
 “Dr. Colvard wanted to make sure it [integration] was done right. Whether or not Richard Holmes was hand-picked and recruited, I don’t know. Um, if he was, then it was a perfect job.”
 
-{% include feature/video.html objectid="oh-002" width="50" %}"
+{% include feature/video.html objectid="oh-002" width="50" %}
 <!--original OHMS url http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=Boyd_Gatlin.xml-->
 
 ## James Graham
@@ -78,13 +78,13 @@ Freedom School Volunteer in the Late 1960s; Helped Integrate Maben High School
 
 “I can tell you that I was there in the movement because of some things that have happened to me as a young person when we were growing up.”
 
-{% include feature/video.html objectid="oh-020" width="50" %}"
+{% include feature/video.html objectid="oh-020" width="50" %}
 <!--original OHMS url http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=James_Graham.xml-->
 
 ## Fred Haley
 Columbus Native; Former Mississippi Educator
 
-{% include feature/video.html objectid="oh-015" width="50" %}"
+{% include feature/video.html objectid="oh-015" width="50" %}
 <!-- original OHMS url http://starkvillecivilrights.msstate.edu/ohms-viewer/viewer.php?cachefile=Fred_Haley.xml Did Judy say delete this one??-->
 
 ## Shirley Hanshaw
@@ -92,7 +92,7 @@ Associate Professor of English & African American Studies at MSU; Henderson High
 
 “I found out after I returned to Mississippi in 2005, that when the schools were desegregated here, there was a huge backlash. Someone literally trashed our legacy.”
 
-{% include feature/video.html objectid="oh-026" width="50" %}"
+{% include feature/video.html objectid="oh-026" width="50" %}
 <!--original OHMS url http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=Shirley_Hanshaw.xml-->
 
 ## Carmen Haynes, Pam Hunt, & Rosemary Cuicchi
@@ -100,7 +100,7 @@ Former Starkville High School Teachers
 
 “And we all taught in this little white building and … we were very enthusiastic about going in, but the facilities were just pitiful.”
 
-{% include feature/video.html objectid="oh-013" width="50" %}"
+{% include feature/video.html objectid="oh-013" width="50" %}
 <!--Original OHMS url http://starkvillecivilrights.msstate.edu//ohms-viewer/viewer.php?cachefile=HaynesHuntCuicchi.xml-->
 
 ## James (Jim) Hemphill 
