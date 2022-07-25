@@ -1,7 +1,7 @@
 ---
-title: The Place
+title: The People
 layout: about
-permalink: /place.html
+permalink: /people.html
 ---
 {% include feature/jumbotron.html objectid="coll-scr-012" title="The People" text="Stories of overcoming latent and overt opposition" %}
 
