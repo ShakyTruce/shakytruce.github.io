@@ -47,15 +47,15 @@ This lesson briefly covers Jim Crow. The lesson plan asks students to examine ho
 ## Assignment Ideas
 
 T-chart exercise 
-{% include feature/pdf.html objectid="coll-scr-038" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-037" width="50" %}
 
 Headline and Lead activity 
-{% include feature/pdf.html objectid="coll-scr-039" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-038" width="50" %}
 
 Biographical Sketch activity 
-{% include feature/pdf.html objectid="coll-scr-040" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-039" width="50" %}
 
 Conducting your own interview activity 
-{% include feature/pdf.html objectid="coll-scr-041" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-040" width="50" %}
 
 Email starkvillecivilrights@gmail.com to share your own resources or classroom ideas!
