@@ -16,12 +16,15 @@ This lesson discusses the difference between primary and secondary sources, guid
 ## Integration Lesson Plan
 This lesson briefly covers Brown v Board, as well as de jure and de facto segregation, guiding students through the website and interviews to give them a fuller understanding of the issues surrounding integration.
 
-{% include feature/pdf.html objectid="coll-scr-033;coll-scr-035;coll-scr-034" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-033" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-035" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-034" width="50" %}
 
 ## Jim Crow Laws Lesson Plan
 This lesson briefly covers Jim Crow. The lesson plan asks students to examine how de jure segregation affected daily life in Starkville through the use of the website and interviews. 
 
-{% include feature/pdf.html objectid="coll-scr-037;coll-scr-036" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-037" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-036" width="50" %}
 
 ## General Discussion Questions
 
