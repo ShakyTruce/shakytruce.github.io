@@ -1,3 +1,9 @@
+---
+title: For Researchers
+layout: about
+permalink: /researchers.html
+---
+
 # Future Research
 To explore similar issues regarding Civil Rights Research, see these resources from the Mississippi State University Libraries.
 
