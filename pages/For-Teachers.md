@@ -4,21 +4,18 @@ One of the goals of the Starkville Civil Rights Project is to put the informatio
 ## Oral History Lesson Plan
 This lesson discusses the difference between primary and secondary sources, guiding students through the website to illustrate the difference. 
 
-<!--Oral History Lesson Plan here- obj ID- coll-scr-032-->
-<!--Oral History Powerpoint here - coll-scr-031-->
+{% include feature/pdf.html objectid="coll-scr-032" width="50" %}
+{% include feature/pdf.html objectid="coll-scr-031" width="50" %}
 
 ## Integration Lesson Plan
 This lesson briefly covers Brown v Board, as well as de jure and de facto segregation, guiding students through the website and interviews to give them a fuller understanding of the issues surrounding integration.
 
-<!--Lesson Plan here - coll-scr-033-->
-<!--Powerpoint here - coll-scr-035-->
-<!--worksheet here - coll-scr-034-->
+{% include feature/pdf.html objectid="coll-scr-033;coll-scr-035;coll-scr-034" width="50" %}
 
 ## Jim Crow Laws Lesson Plan
 This lesson briefly covers Jim Crow. The lesson plan asks students to examine how de jure segregation affected daily life in Starkville through the use of the website and interviews. 
 
-<!--Lesson Plan Here - coll-scr-037-->
-<!--Powerpoint here - coll-scr-036-->
+{% include feature/pdf.html objectid="coll-scr-037;coll-scr-036" width="50" %}
 
 ## General Discussion Questions
 
@@ -40,9 +37,16 @@ This lesson briefly covers Jim Crow. The lesson plan asks students to examine ho
 
 ## Assignment Ideas
 
-- T-chart exercise <!--coll-scr-038-->
-- Headline and Lead activity <!--coll-scr-039-->
-- Biographical Sketch activity <!--coll-scr-040-->
-- Conducting your own interview activity <!--coll-scr-041-->
+T-chart exercise 
+{% include feature/pdf.html objectid="coll-scr-038" width="50" %}
 
-<!--Email starkvillecivilrights@gmail.com or contact to share your own resources/ideas? Google form?-->
+Headline and Lead activity 
+{% include feature/pdf.html objectid="coll-scr-039" width="50" %}
+
+Biographical Sketch activity 
+{% include feature/pdf.html objectid="coll-scr-040" width="50" %}
+
+Conducting your own interview activity 
+{% include feature/pdf.html objectid="coll-scr-041" width="50" %}
+
+Email starkvillecivilrights@gmail.com to share your own resources or classroom ideas!
