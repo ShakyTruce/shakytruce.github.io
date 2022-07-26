@@ -1,3 +1,9 @@
+---
+title: For Teachers
+layout: about
+permalink: /teachers.html
+---
+
 # For Teachers
 One of the goals of the Starkville Civil Rights Project is to put the information we have uncovered through our research in the hands of teachers. It is our hope that these interviews will help schools to highlight the many different sides of the Civil Rights Movement in a way that is productive for students in the city of Starkville, the state of Mississippi, and throughout the United States.
 
