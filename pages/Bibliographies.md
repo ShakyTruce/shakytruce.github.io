@@ -1,3 +1,9 @@
+---
+title: Bibliographies
+layout: about
+permalink: /bib.html
+---
+
 # Bibliographies
 
 ## Before the Civil Rights Movement
