@@ -15,11 +15,9 @@ Image: "Anti-integration cartoon," Segregation-Integration Misc. Collection, Man
 
 # Getting Organized
 
-{% include feature/pdf.html objectid="coll-msu-00" width="50"%}
-Satirical Cartoon on Forced Integration.
-Segregation/Integration Misc., Citizens Council and other Distributors of Literature-1947-1967 Folder, Special Collections, Manuscripts, Mississippi State University Libraries.
+{% include feature/image.html objectid="coll-msu-002" width="50"%}
 
-{% include feature/image.html objectid="coll-msu-003" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-003" width="50" %}
 
 Unlike other regions of Mississippi in the early 1960s, there was no organized resistance to segregation in Starkville, but local citizens sometimes took it upon themselves to push back against the racially divided society. During this time, Jim Crow segregation excluded African Americans from white-owned restaurants, cafes, or anywhere white patrons could sit down. Breaking these rule could mean jail time, but some residents willingly took this risk.  
 
