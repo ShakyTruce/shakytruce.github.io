@@ -70,13 +70,9 @@ That did not hold true for long, as administrators quickly began using standardi
 
 ### Integration experiences
 
-{% include feature/video.html objectid="oh-028" width="25" %}
+{% include feature/video.html objectid="oh-028" width="25" %} {% include feature/video.html objectid="oh-029" width="25" %}
 
-{% include feature/video.html objectid="oh-029" width="25" %}
-
-{% include feature/video.html objectid="oh-030" width="25" %}
-
-{% include feature/video.html objectid="oh-031" width="25" %}
+{% include feature/video.html objectid="oh-030" width="25" %} {% include feature/video.html objectid="oh-031" width="25" %}
 
 # Backlash
 
