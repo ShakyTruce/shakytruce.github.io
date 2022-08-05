@@ -38,7 +38,7 @@ White residents of Starkville, like other towns across the South, resisted this 
 
 As historian Charles Bolton notes, freedom-of-choice “placed excessive burdens on black parents and children to dismantle a dual school system that whites seemingly had no real intention of relinquishing”  (Bolton, <a href="https://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:999896/ada?qu=hardest+deal+of+all+bolton&te=ILS&lm=ALLMSU">The Hardest Deal of All,</a> 164). In Starkville as elsewhere, change was negligible; during the five years it existed, few African Americans attended white schools and no whites enrolled at African American schools. 
 
-{% include feature/button.html text="Chuck Ware discusses why it might have been difficult to integrate public schools." link="https://youtu.be/GJ-kHGzQF3Y" %}
+{% include feature/button.html text="Chuck Ware discusses why it might have been difficult to integrate public schools." link="https://youtu.be/GJ-kHGzQF3Y" color="success" %}
 
 U.S. Department of Education officials and local African American leaders were not satisfied with this plan; they saw it as another attempt to delay desegregation. Attempting to speed up the process, Department of Education officials visited Starkville, threatened loss of funding, and then suspended federal funding in September of 1968. However, the dual system continued.  
 
@@ -56,13 +56,13 @@ Starkville’s segregated public school system finally came to its official end 
 
 Yet as evidence in this project attests, 1970-71 was not so much an end as the beginning of a gradual and often tension-filled process that would continue for years to come.
 
-{% include feature/button.html text="Willie Johnson remembers the student protests that led up to the 1970-1971 desegregation of public schools" link="https://youtu.be/l3L_h2b9_ZQ" %}
+{% include feature/button.html text="Willie Johnson remembers the student protests that led up to the 1970-1971 desegregation of public schools" link="https://youtu.be/l3L_h2b9_ZQ" color="success" %}
 
-{% include feature/card.html header="Segregation in Education" text="Browse more object about the fight for desegregation" objectid="coll-msu-056" width="25" centered=true link="https://shakytruce.github.io/ShakyTruce/browse.html#Segregation%20in%20Education" %}
+{% include feature/pdf.html objectid="coll-msu-056" width="50" centered=true %}
 
 ## Integration: 1970, year 1
 
-{% include feature/image.html objectid="coll-scr-008;coll-scr-009;coll-scr-009;coll-scr-010;coll-scr-011;coll-scr-012;coll-scr-013" %}
+{% include feature/image.html objectid="coll-scr-008;coll-scr-009;coll-scr-010;coll-scr-011;coll-scr-012;coll-scr-013" %}
 
 Under the mandate of a court order, Starkville desegregated its public schools during the 1970-71 school year. Desegregation came with costs and opportunities.  Henderson High School, the city’s sole African American secondary school, was not closed, as some had feared, but it was downgraded to a middle school, a move that upset many in the community.  African American students thus found themselves integrated into the formerly all-white Starkville High.  This was a peaceful process, but there was plenty of tension and uneasiness, especially that first year.  
 
@@ -70,7 +70,13 @@ That did not hold true for long, as administrators quickly began using standardi
 
 ### Integration experiences
 
-{% include feature/video.html objectid="oh-028;oh-29;oh-30;oh-31" %}"
+{% include feature/video.html objectid="oh-028" width="25" %}
+
+{% include feature/video.html objectid="oh-029" width="25" %}
+
+{% include feature/video.html objectid="oh-030" width="25" %}
+
+{% include feature/video.html objectid="oh-031" width="25" %}
 
 # Backlash
 
