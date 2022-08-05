@@ -3,7 +3,7 @@ title: The MSU Story
 layout: about
 permalink: /msustory.html
 ---
-{% include feature/jumbotron.html objectid="coll-scr-011" title="MSU Story" text="Game of Change, Integration, Campus Activism" %}
+{% include feature/jumbotron.html objectid="coll-scr-003" title="MSU Story" text="Game of Change, Integration, Campus Activism" %}
 
 {% include feature/nav-menu.html sections="The MSU Story;Game of Change;Richard Holmes Integrates MSU;Charles Evers and Stokely Carmichael;" %}
 
@@ -40,7 +40,7 @@ From the Mixed Emotions Collection, Dean W. Colvard Faculty Papers, Special Coll
 
 {% include feature/pdf.html objectid="coll-msu-007" width="50" %}
 
-{% include feature/pdf.html objectid="coll-msu-008" width="50" %}
+<!--missing 008, possibly the Resolution. Not in objects folder or data sheet. Reference: https://drive.google.com/file/d/0B5tiL0HMFLJGM2RqVlJnMmNCVmc/view?usp=sharing&resourcekey=0-dV8UGHiXaQn5y4kYdBLX4g {% include feature/pdf.html objectid="coll-msu-008" width="50" %}-->
 
 ## Letters about the Game
 
@@ -50,7 +50,7 @@ Letter of Support
 Letter of Disapproval
 {% include feature/pdf.html objectid="coll-msu-032" width="50" %}
 
-{% include feature/button.html text="Browse all the letters to President Colvard on the Game of Change. Warning: contains offensive content" link="https://shakytruce.github.io/ShakyTruce/browse.html#Integration%20in%20sports" %}
+{% include feature/button.html text="Browse all the letters to President Colvard on the Game of Change. Warning: contains offensive content" link="https://shakytruce.github.io/ShakyTruce/browse.html#Integration%20in%20sports" color="success" %}
 
 ## Richard Holmes Integrates MSU
 
@@ -62,11 +62,11 @@ Holmes’s admission to MSU met with relatively little resistance from the local
 
 His first year at MSU was not an easy transition. He said, “It was isolated, it was lonely at times . . . it was somewhat depressing at times . . .” Most students on campus chose to ignore his presence, but he did find support among faculty and a few students. He said, “Professors in History were my biggest supporters.” He graduated in 1969 with a bachelor of art while teaching at a high school in Aliceville, Alabama. He earned a medical degree from Michigan State University in 1973. 
 
-{% include feature/button.html text="Listen to Richard Holmes talk about his transition to MSU" link="https://youtu.be/CsOf4PQMUaY" width="50" %}
+{% include feature/button.html text="Listen to Richard Holmes talk about his transition to MSU" link="https://youtu.be/CsOf4PQMUaY" width="50" color="success" centered="true" %}
 
 Although Holmes was MSU’s first African American student, he was not the first local student urged to enroll.  Dr. Conner had asked Shirley Hanshaw’s parents if she would be the one to desegregate MSU.  Hanshaw, another Henderson High graduate and a National Achievement Scholar, seemed an obvious choice.  Her parents declined his offer, however, fearing that their introverted daughter would be crushed by the experience.  Hanshaw opted to attend Tougaloo College instead. 
 
-{% include feature/button.html text="Listen to Shirley Hanshaw discuss choosing Tougaloo over MSU" link="https://youtu.be/4dWGtXBhjDw" width="50" %}
+{% include feature/button.html text="Listen to Shirley Hanshaw discuss choosing Tougaloo over MSU" link="https://youtu.be/4dWGtXBhjDw" width="50" color="success" centered="true" %}
 
 ## Charles Evers and Stokely Carmichael
 
@@ -78,7 +78,7 @@ One visitor was Charles Evers, older brother of Medgar Evers and then mayor of F
 
 In 1973, the Afro-American Plus Club invited Stokely Carmichael to speak at Mississippi State University. One of the club’s core values were to “instill Black pride, educate all about Black culture, and promote peaceful coexistence with other student" (Afro-American Plus Club Constitution, Article II, from “Black Awareness Month” Vertical File, Special Collections, University Archives, Mississippi State University Libraries). To the students of the Plus Club, the organization’s beliefs were parallel to Stokely Carmichael’s concept of Black Power. It can be argued that the state of Mississippi is the home to the Black Power Movement. During the March Against Fear in 1966, Stokely Carmichael was arrested in the Greenwood, Mississippi where in his frustration with racism he yelled the phrase “Black Power.” <a href="http://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1044912/one?qu=Up+Against+the+Wall%3A+Violence+in+the+Making+and+Unmaking+of+the+Black+Panther+Party&te=ILS">See Austin’s Up Against the Wall</a> and <a href="http://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1159316/one?qu=Black+Power%3A+Radical+Politics+and+African+American+Identity&te=ILS">Ogbar’s Black Power</a>.  
 
-{% include feature/image.html objectid="https://commons.wikimedia.org/wiki/File:Kwame_Ture_at_a_1966_Mississippi_press_conference.jpg" caption="Kwame Ture at a 1966 Mississippi press conference, from Wikimedia Commons" %}
+<!-- image shows as broken but not sure why {% include feature/image.html objectid="https://commons.wikimedia.org/wiki/File:Kwame_Ture_at_a_1966_Mississippi_press_conference.jpg" alt="Kwame Ture at a 1966 Mississippi press conference, from Wikimedia Commons" %}-->
 
 In 1973, Stokely Carmichael (Kwame Ture) returned the state of Mississippi on October 30th where he spoke at MSU on the topics of “Pan-Africanism and Socialism.” His philosophy represents a shift from the traditional thought of the older vanguard — such as the “unity” approach presented by Charles Evers — to what was perceived by some as dangerous and selfish. 
 
