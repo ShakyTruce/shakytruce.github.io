@@ -26,7 +26,7 @@ Most scholars argue that the “Game of Change” helped to pave the way the des
 
 While the “Game of Change” was the first sporting event in MSU’s history to push back against the racial status quo, it was not the only one.  Through time and under pressure to change, MSU gradually integrated its other sports and coaching staffs.
 
-{% include feature/button.html text="Listen to a poscast exploring the history of football and integration at the university" link="https://soundcloud.com/starkvillecivilrights/football-and-integration-at-mississippi-state-university?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fstarkvillecivilrights%252Ffootball-and-integration-at-mississippi-state-university" color="success" $}
+{% include feature/button.html text="Listen to a poscast exploring the history of football and integration at the university" link="https://soundcloud.com/starkvillecivilrights/football-and-integration-at-mississippi-state-university?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fstarkvillecivilrights%252Ffootball-and-integration-at-mississippi-state-university" color="success" %}
 
 
 <a href="https://docs.google.com/document/d/1g-MbgL5gOGEWAJTXjKS-HgsXA6bFCjcg-RMqbXamaDQ/edit?usp=sharing">Podcast bibliography</a>
