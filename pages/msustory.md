@@ -34,27 +34,27 @@ While the “Game of Change” was the first sporting event in MSU’s history t
 ## Minutes and Press Releases on the game
 From the Mixed Emotions Collection, Dean W. Colvard Faculty Papers, Special Collections, University Archives, Mississippi State University Libraries.
 
-{% feature include/pdf.html objectid="coll-msu-005" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-005" width="50" %}
 
-{% feature include/pdf.html objectid="coll-msu-006" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-006" width="50" %}
 
-{% feature include/pdf.html objectid="coll-msu-007" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-007" width="50" %}
 
-{% feature include/pdf.html objectid="coll-msu-008" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-008" width="50" %}
 
 ## Letters about the Game
 
 Letter of Support
-{% feature include/pdf.html objectid="coll-msu-024" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-024" width="50" %}
 
 Letter of Disapproval
-{% feature include/pdf.html objectid="coll-msu-032" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-032" width="50" %}
 
 {% include feature/button.html text="Browse all the letters to President Colvard on the Game of Change. Warning: contains offensive content" link="https://shakytruce.github.io/ShakyTruce/browse.html#Integration%20in%20sports" %}
 
 ## Richard Holmes Integrates MSU
 
-{% feature include/pdf.html objectid="coll-msu-045" width="50" %}
+{% include feature/pdf.html objectid="coll-msu-045" width="50" %}
 
 In July 1965, Richard Holmes quietly desegregated Mississippi State University as its first African American student. He entered MSU during the summer semester, after attending Wiley College in Marshall, TX for two years. Holmes, the adopted son of local civil rights leader, Dr. Douglas Conner,  was born in Chicago, IL on February 17, 1944, and moved to Starkville when he was 12 years old. He graduated from Starkville’s segregated Henderson High School in 1963.
 
@@ -62,7 +62,7 @@ Holmes’s admission to MSU met with relatively little resistance from the local
 
 His first year at MSU was not an easy transition. He said, “It was isolated, it was lonely at times . . . it was somewhat depressing at times . . .” Most students on campus chose to ignore his presence, but he did find support among faculty and a few students. He said, “Professors in History were my biggest supporters.” He graduated in 1969 with a bachelor of art while teaching at a high school in Aliceville, Alabama. He earned a medical degree from Michigan State University in 1973. 
 
-{% feature include/button.html text="Listen to Richard Holmes talk about his transition to MSU" link="https://youtu.be/CsOf4PQMUaY" width="50" %}
+{% include feature/button.html text="Listen to Richard Holmes talk about his transition to MSU" link="https://youtu.be/CsOf4PQMUaY" width="50" %}
 
 Although Holmes was MSU’s first African American student, he was not the first local student urged to enroll.  Dr. Conner had asked Shirley Hanshaw’s parents if she would be the one to desegregate MSU.  Hanshaw, another Henderson High graduate and a National Achievement Scholar, seemed an obvious choice.  Her parents declined his offer, however, fearing that their introverted daughter would be crushed by the experience.  Hanshaw opted to attend Tougaloo College instead. 
 
