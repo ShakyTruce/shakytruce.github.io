@@ -21,7 +21,7 @@ For Starkville’s African Americans, OCTS represented an improvement by offerin
 
 During the late 1950s, in an effort to preserve the city’s dual education system in the wake of the  landmark Brown v. Board of Education decision, Starkville officials launched various improvement efforts to make the city’s African American schools appear more equal.  They hired new teachers, started new curricular programs (such as French), and constructed new school buildings, including two elementary schools and a new high school.  They also renamed Oktibbeha County Training School to Henderson High School, after W. C. (Willie Chiles) Henderson, an African American educator in Starkville in the 1910s who served as principal of OCTS/Henderson High from 1959 until 1964.  The goal of the renaming, according to Starkville native Dr. Shirley Hanshaw, was to “discourage our going to white schools.” Although Henderson High was never equal to Starkville High, former teachers and students have fond memories of it.  They recall its dedicated administrators and teachers and its successful sports teams and band.  
 
-{% include feature/button.html text="See Shirley Hanshaw's Interview for more" link="https://youtu.be/kqO26Vf6Ldw?t=4241" color="success"}
+{% include feature/button.html text="See our interview with Shirley Hanshaw for more" link="https://youtu.be/kqO26Vf6Ldw?t=4241" color="success" %}
 
 In 1970, under the directive of the courts, Starkville finally ended the long practice of racially segregated education. Students from Henderson High School were transferred to Starkville High School, and the building of Henderson High was demoted to Henderson Middle School, housing ninth grade students. That same year, at a time when tensions over school desegregation were running high in the city, the old Rosenwald School on the site burned to the ground.
 
@@ -34,7 +34,7 @@ In the momentous Brown v. Board of Education decision of 1954, the U.S. Supreme 
 
 White residents of Starkville, like other towns across the South, resisted this decision, seeing it as an attack on their way of life. Under additional pressure from the federal government following the passage of the Civil Rights Act in 1964, Starkville and other Mississippi school systems adopted a new freedom-of-choice plan in 1965, which allowed parents to select their children’s school. 
 
-{% include feature/image.html objectid="coll-scr-017" width="50"}
+{% include feature/image.html objectid="coll-scr-017" width="50" %}
 
 As historian Charles Bolton notes, freedom-of-choice “placed excessive burdens on black parents and children to dismantle a dual school system that whites seemingly had no real intention of relinquishing”  (Bolton, <a href="https://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:999896/ada?qu=hardest+deal+of+all+bolton&te=ILS&lm=ALLMSU">The Hardest Deal of All,</a> 164). In Starkville as elsewhere, change was negligible; during the five years it existed, few African Americans attended white schools and no whites enrolled at African American schools. 
 
