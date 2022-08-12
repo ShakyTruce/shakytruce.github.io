@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="coll-msu-002" title="Getting Organized" text="Organization efforts, NAACP, and Boycotts & Protests" %}
+{% include feature/jumbotron.html objectid="coll-msu-046" title="Getting Organized" text="Organization efforts, NAACP, and Boycotts & Protests" %}
 
 Image: "Anti-integration cartoon," Segregation-Integration Misc. Collection, Manuscript Collections, Mississippi State University Libraries.
 
@@ -15,19 +15,20 @@ Image: "Anti-integration cartoon," Segregation-Integration Misc. Collection, Man
 
 # Getting Organized
 
-{% include feature/image.html objectid="coll-msu-002" width="50"%}
+{% include feature/pdf.html objectid="coll-msu-002" width="50"%}
 
 {% include feature/pdf.html objectid="coll-msu-003" width="50" %}
 
 Unlike other regions of Mississippi in the early 1960s, there was no organized resistance to segregation in Starkville, but local citizens sometimes took it upon themselves to push back against the racially divided society. During this time, Jim Crow segregation excluded African Americans from white-owned restaurants, cafes, or anywhere white patrons could sit down. Breaking these rule could mean jail time, but some residents willingly took this risk.  
 
-{% include feature/button.html text="See Bobby Bardwell's interview" link="https://youtu.be/dbYqc0n3m7Q?t=4593" color="success" %}
+{% include feature/button.html text="See Bobby Bardwell's interview" link="https://youtu.be/dbYqc0n3m7Q?t=4593" centered="true" color="success" %}
 
-{% include feature/button.html text="See a clip of James Graham's interview" link="https://youtu.be/h7okdNWAB3I" color="success" %}
+{% include feature/button.html text="See a clip of James Graham's interview" link="https://youtu.be/h7okdNWAB3I" centered="true" color="success" %}
 
 Starkville’s white-owned grocery and clothing stores accepted African Americans as patrons, but according to historian Craig Piper, “they were not allowed to try on merchandise or receive alterations.” (Piper, <a href="http://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:603903/ada?qu=piper%2C+craig&te=ILS&rt=false%7C%7C%7CAUTHOR%7C%7C%7CAuthor">The Civil Rights Movement in Starkville, MS</a>, 20).  In addition, white business owners refused to hire black employees to work in the front of their stores.  African Americans resented such lack of visibility and equal employment opportunity, but they did not protest these practices in any organized way until 1970.
 
-> **“At clothing stores we were discouraged from trying anything on. We were supposed to hold the clothes against our bodies to try to determine correct fit.” (Conner and Marszalek, A Black Physician’s Story, 103) -Douglas Conner** <!--include picture?-->
+{% include feature/alert.html text="“At clothing stores we were discouraged from trying anything on. We were supposed to hold the clothes against our bodies to try to determine correct fit.” (Conner and Marszalek, A Black Physician’s Story, 103) -Douglas Conner" color="primary" align="center" %}
+<!--include picture of Conner?-->
 
 Following passage of the federal Civil Rights and Voting Acts in 1964 and 1965, Dr. Martin Luther King Jr.’s assassination in 1968, and motivated by ongoing local economic, educational, and political frustrations, Starkville’s African American community followed the lead of others in the state and mobilized more organized forms of resistance by the late 1960s.
 
