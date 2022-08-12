@@ -4,16 +4,19 @@ layout: about
 permalink: /teachers.html
 ---
 
-# For Teachers
+{% include feature/nav-menu.html sections="Lesson Plans;General Discussion Questions;Assignment Ideas" %}
+
 One of the goals of the Starkville Civil Rights Project is to put the information we have uncovered through our research in the hands of teachers. It is our hope that these interviews will help schools to highlight the many different sides of the Civil Rights Movement in a way that is productive for students in the city of Starkville, the state of Mississippi, and throughout the United States.
 
-## Oral History Lesson Plan
+# Lesson Plans
+
+## Oral History Lesson Plans
 This lesson discusses the difference between primary and secondary sources, guiding students through the website to illustrate the difference. 
 
 {% include feature/pdf.html objectid="coll-scr-032" width="50" %}
 {% include feature/pdf.html objectid="coll-scr-031" width="50" %}
 
-## Integration Lesson Plan
+## Integration Lesson Plans
 This lesson briefly covers Brown v Board, as well as de jure and de facto segregation, guiding students through the website and interviews to give them a fuller understanding of the issues surrounding integration.
 
 {% include feature/pdf.html objectid="coll-scr-033" width="50" %}
