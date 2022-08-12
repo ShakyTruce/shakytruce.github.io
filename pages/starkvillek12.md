@@ -21,11 +21,11 @@ For Starkville’s African Americans, OCTS represented an improvement by offerin
 
 During the late 1950s, in an effort to preserve the city’s dual education system in the wake of the  landmark Brown v. Board of Education decision, Starkville officials launched various improvement efforts to make the city’s African American schools appear more equal.  They hired new teachers, started new curricular programs (such as French), and constructed new school buildings, including two elementary schools and a new high school.  They also renamed Oktibbeha County Training School to Henderson High School, after W. C. (Willie Chiles) Henderson, an African American educator in Starkville in the 1910s who served as principal of OCTS/Henderson High from 1959 until 1964.  The goal of the renaming, according to Starkville native Dr. Shirley Hanshaw, was to “discourage our going to white schools.” Although Henderson High was never equal to Starkville High, former teachers and students have fond memories of it.  They recall its dedicated administrators and teachers and its successful sports teams and band.  
 
-{% include feature/button.html text="See our interview with Shirley Hanshaw for more" link="https://youtu.be/kqO26Vf6Ldw?t=4241" color="success" %}
+{% include feature/button.html text="See Shirley Hanshaw's interview" link="https://youtu.be/kqO26Vf6Ldw?t=4241" color="primary" centered="true" %}
 
 In 1970, under the directive of the courts, Starkville finally ended the long practice of racially segregated education. Students from Henderson High School were transferred to Starkville High School, and the building of Henderson High was demoted to Henderson Middle School, housing ninth grade students. That same year, at a time when tensions over school desegregation were running high in the city, the old Rosenwald School on the site burned to the ground.
 
-<!--create object id for rosenwald fire article/image https://drive.google.com/file/d/0B5tiL0HMFLJGcEdEc2FPNmhTRVE/view?usp=sharing&resourcekey=0-9o4wTf-_ZqwO_8-tsulUQA or https://drive.google.com/file/d/0B5tiL0HMFLJGRnN2VnNMdUd6Tms/view?usp=sharing&resourcekey=0-19kIztdRcVntc4nC4nZVTw -->
+{% include feature/image.html objectid="coll-scr-041" width="50" %}
 
 # Fighting Desegregation
 
@@ -38,7 +38,7 @@ White residents of Starkville, like other towns across the South, resisted this 
 
 As historian Charles Bolton notes, freedom-of-choice “placed excessive burdens on black parents and children to dismantle a dual school system that whites seemingly had no real intention of relinquishing”  (Bolton, <a href="https://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:999896/ada?qu=hardest+deal+of+all+bolton&te=ILS&lm=ALLMSU">The Hardest Deal of All,</a> 164). In Starkville as elsewhere, change was negligible; during the five years it existed, few African Americans attended white schools and no whites enrolled at African American schools. 
 
-{% include feature/button.html text="Chuck Ware discusses why it might have been difficult to integrate public schools." link="https://youtu.be/GJ-kHGzQF3Y" color="success" %}
+{% include feature/button.html text="Chuck Ware discusses why it might have been difficult to integrate public schools." link="https://youtu.be/GJ-kHGzQF3Y" color="primary" centered="true" %}
 
 U.S. Department of Education officials and local African American leaders were not satisfied with this plan; they saw it as another attempt to delay desegregation. Attempting to speed up the process, Department of Education officials visited Starkville, threatened loss of funding, and then suspended federal funding in September of 1968. However, the dual system continued.  
 
@@ -46,7 +46,7 @@ U.S. Department of Education officials and local African American leaders were n
 
 In 1968, a small group of African American leaders led by Dr. Douglas Conner expressed concern that freedom-of-choice would close black schools and lay off black teachers because whites would not attend African American schools and African Americans would only opt into white schools to desegregate them. Like the Department of Education, they called for the immediate and total desegregation of all grades, while trying to force change through the courts at the same time.
 
-{% include feature/image.html objectid="coll-scr-007;coll-scr-022" width="50" %}
+{% include feature/image.html objectid="coll-scr-007;coll-scr-022" width="75" %}
 
 Tensions came to head in 1969 and 1970. At the national level, in the October 1969 _Alexander v. Holmes County Board of Education_ decision, the Supreme Court called for the immediate end to segregated school systems in Mississippi, overturning the Brown II doctrine of “all deliberate speed.” A few months later, in February 1970, local legal efforts paid off when a U.S. District Court judge in Aberdeen ordered the end to Starkville’s dual system beginning in the 1970-71 school year. Addressing the fears of the African American community, under this ruling no Starkville school buildings would be closed and school faculty would be integrated. Additionally, a biracial committee would help oversee the process.
 
@@ -54,9 +54,9 @@ Tensions came to head in 1969 and 1970. At the national level, in the October 19
 
 Starkville’s segregated public school system finally came to its official end in 1970-1971. As Dr. Douglas Conner noted in his autobiography, “the dual system was eliminated; sixteen years after the Supreme Court ruled segregated schools unconstitutional, Starkville was finally in compliance. It had been a long fight, but it was worth it” (Conner and Marszalek, <a href="http://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:999896/ada/?rt=CKEY%7C%7C%7CCKEY%7C%7C%7Cfalse">A Black Physician’s Story</a>, 154).
 
-Yet as evidence in this project attests, 1970-71 was not so much an end as the beginning of a gradual and often tension-filled process that would continue for years to come.
+{% include feature/button.html text="Willie Johnson remembers the student protests that led up to the 1970-1971 desegregation of public schools" link="https://youtu.be/l3L_h2b9_ZQ" color="primary" centered="true" %}
 
-{% include feature/button.html text="Willie Johnson remembers the student protests that led up to the 1970-1971 desegregation of public schools" link="https://youtu.be/l3L_h2b9_ZQ" color="success" %}
+Yet as evidence in this project attests, 1970-71 was not so much an end as the beginning of a gradual and often tension-filled process that would continue for years to come.
 
 {% include feature/pdf.html objectid="coll-msu-056" width="50" centered=true %}
 
