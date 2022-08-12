@@ -12,9 +12,9 @@
 url: https://ShakyTruce.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /ShakyTruce
+# baseurl: /ShakyTruce
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/ShakyTruce/ShakyTruce
 
 ##########
 # SITE SETTINGS
@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: A Shaky Truce
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Starkville Civil Rights Struggles, 1960-1980
+tagline: Civil Rights Struggles in Starkville, Mississippi, 1960-1980
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Through oral history interviews and digitized archival documents, this site highlights the civil rights story in Starkville, MS, and the voices of its participants.
+description: This digital oral and public history project was a cooperative effort to showcase the unique history of Starkville, Mississippi’s civil rights struggles with particular emphasis on the local fight for school desegregation.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: ShakyTruce
 

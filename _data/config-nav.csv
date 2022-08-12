@@ -1,9 +1,16 @@
 display_name,stub,dropdown_parent
 Home,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+The Place,/place.html,
+The People,/people.html,
+The Struggles,,
+Organization Efforts,/orgefforts.html,The Struggles
+Starkville Public Schools,/starkvillek12.html,The Struggles
+MSU Story,/msustory.html,The Struggles
+Resources,,
+For Teachers,teachers.html,Resources
+For Researchers,researchers.html,Resources
+Bibliographies,bib.html,Resources
+Data,,
+Data,/data.html,Data
+Browse,/browse.html,Data
+About,/about.html,
