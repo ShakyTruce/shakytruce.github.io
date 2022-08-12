@@ -21,9 +21,9 @@ Image: "Anti-integration cartoon," Segregation-Integration Misc. Collection, Man
 
 Unlike other regions of Mississippi in the early 1960s, there was no organized resistance to segregation in Starkville, but local citizens sometimes took it upon themselves to push back against the racially divided society. During this time, Jim Crow segregation excluded African Americans from white-owned restaurants, cafes, or anywhere white patrons could sit down. Breaking these rule could mean jail time, but some residents willingly took this risk.  
 
-{% include feature/button.html text="See Bobby Bardwell's interview" link="https://youtu.be/dbYqc0n3m7Q?t=4593" centered="true" color="success" %}
+{% include feature/button.html text="See Bobby Bardwell's interview" link="https://youtu.be/dbYqc0n3m7Q?t=4593" centered="true" color="primary" %}
 
-{% include feature/button.html text="See a clip of James Graham's interview" link="https://youtu.be/h7okdNWAB3I" centered="true" color="success" %}
+{% include feature/button.html text="See a clip of James Graham's interview" link="https://youtu.be/h7okdNWAB3I" centered="true" color="primary" %}
 
 Starkville’s white-owned grocery and clothing stores accepted African Americans as patrons, but according to historian Craig Piper, “they were not allowed to try on merchandise or receive alterations.” (Piper, <a href="http://mlp.ent.sirsi.net/client/en_US/msstate/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:603903/ada?qu=piper%2C+craig&te=ILS&rt=false%7C%7C%7CAUTHOR%7C%7C%7CAuthor">The Civil Rights Movement in Starkville, MS</a>, 20).  In addition, white business owners refused to hire black employees to work in the front of their stores.  African Americans resented such lack of visibility and equal employment opportunity, but they did not protest these practices in any organized way until 1970.
 
@@ -53,7 +53,7 @@ Under Conner’s leadership durings the 1970s and 1980s, the Oktibbeha County NA
 Later, under the chapter’s first female president, Dorothy Bishop, the chapter continued to press for equal treatment under the law for local African American citizens in the 1990s.
 
 One of the former presidents of the local chapter is Chris Taylor, who is interviewed on this site.  
-{% include feature/button.html text="Watch Chris Taylor's Interview" link="https://youtu.be/zVx8X5xPWZY" color="success" %}
+{% include feature/button.html text="Watch Chris Taylor's Interview" link="https://youtu.be/zVx8X5xPWZY" color="primary" %}
 
 ## Documents on the Oktibbeha NAACP
 Courtesy of Mississippi State University Libraries Special Collections
