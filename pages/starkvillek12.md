@@ -3,7 +3,7 @@ title: Starkville Public Schools
 layout: about
 permalink: /starkvillek12.html
 ---
-{% include feature/jumbotron.html objectid="coll-scr-011" title="Starkville Public Schools" text="Segregation, Desegregation, & Integration" %}
+{% include feature/jumbotron.html objectid="coll-scr-011" heading="Starkville Public Schools" text="Segregation, Desegregation, & Integration" %}
 
 {% include feature/nav-menu.html sections="Segregated Education;Fighting Desegregation;Backlash" %}
 

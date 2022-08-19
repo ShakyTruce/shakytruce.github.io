@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="coll-msu-046" title="Getting Organized" text="Organization efforts, NAACP, and Boycotts & Protests" %}
+{% include feature/jumbotron.html objectid="coll-msu-046" heading="Getting Organized" text="Organization efforts, NAACP, and Boycotts & Protests" %}
 
 Image: "Anti-integration cartoon," Segregation-Integration Misc. Collection, Manuscript Collections, Mississippi State University Libraries.
 

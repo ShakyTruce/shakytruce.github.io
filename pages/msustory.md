@@ -3,9 +3,9 @@ title: The MSU Story
 layout: about
 permalink: /msustory.html
 ---
-{% include feature/jumbotron.html objectid="coll-scr-003" title="MSU Story" text="Game of Change, Integration, Campus Activism" %}
+{% include feature/jumbotron.html objectid="coll-scr-003" heading="MSU Story" text="Game of Change, Integration, Campus Activism" %}
 
-{% include feature/nav-menu.html sections="The MSU Story;Game of Change;Richard Holmes Integrates MSU;Charles Evers and Stokely Carmichael;" %}
+{% include feature/nav-menu.html sections="The MSU Story;Game of Change;Richard Holmes Integrates MSU;Charles Evers and Stokely Carmichael" %}
 
 # The MSU Story
 Mississippi State University (MSU) takes great pride that its integration occurred more smoothly and peacefully than at other Mississippi campuses.  There were no riots at MSU; nor were they any major acts of physical violence.  But there was lots of tension, and some backlash.  For instance, in the 1963 “Game of Change,” no violent incidents occurred, but the team left under cover of night, and following the event, President Colvard received letters filled with vitriol. Likewise, when Richard Holmes first registered for classes at MSU in July 1965, no one hurt him or prevented his registration, but he had to live in isolation and get escorted home.  Furthermore, when MSU student groups wanted to invite speakers such as Charles Evers to campus, restrictions prevented these visitors from speaking on campus.  While these are not literal acts of violence, these stories demonstrate the kind of obstacles that had to be overcome to bring integration and equal rights to MSU’s campus.
