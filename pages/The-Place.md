@@ -5,7 +5,7 @@ permalink: /place.html
 ---
 {% include feature/jumbotron.html objectid="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" title="The Place" text="Starkville, MS" %}
 
-Image: "African-Americans waiting for train, Starkville, 1/1923," <a href="https://scholarsjunction.msstate.edu/mss-rob-sad-wier-papers/1/">(Wier) Robert and Sadye papers</a>, Special Collections Department, Mississippi State University"
+Image: "African-Americans waiting for train, Starkville, 1/1923," <a href="https://scholarsjunction.msstate.edu/mss-rob-sad-wier-papers/1/">Robert and Sadye Wier papers</a>, Special Collections Department, Mississippi State University"
 
 {% include feature/nav-menu.html sections="History of Starkville;Demographics;Maps of Starkville, 1947-2010" %}
 

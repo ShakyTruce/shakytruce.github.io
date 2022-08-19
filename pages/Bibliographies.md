@@ -2,6 +2,7 @@
 title: Bibliographies
 layout: about
 permalink: /bib.html
+credits: false
 ---
 
 # Bibliographies
