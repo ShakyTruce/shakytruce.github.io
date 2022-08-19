@@ -3,6 +3,7 @@ title: For Teachers
 layout: about
 permalink: /teachers.html
 ---
+# For Teachers
 
 {% include feature/nav-menu.html sections="Lesson Plans;General Discussion Questions;Assignment Ideas" %}
 
