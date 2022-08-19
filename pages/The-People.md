@@ -3,7 +3,7 @@ title: The People
 layout: about
 permalink: /people.html
 ---
-{% include feature/jumbotron.html objectid="coll-scr-012" title="The People" text="Stories of overcoming latent and overt opposition" %}
+{% include feature/jumbotron.html objectid="coll-scr-012" heading="The People" text="Stories of overcoming latent and overt opposition" %}
 
 Image: 1971 Yellow Jacket yearbook of black and white students in the Bi-racial committee, with a caption that reads "The Bi-Racial Committee was a very active and decisive factor in our success as a unitary school."
 
