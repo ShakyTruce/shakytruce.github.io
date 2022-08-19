@@ -3,7 +3,7 @@ title: The MSU Story
 layout: about
 permalink: /msustory.html
 ---
-{% include feature/jumbotron.html objectid="coll-scr-003" title="MSU Story" text="Game of Change, Integration, Campus Activism" %}
+{% include feature/jumbotron.html objectid="coll-scr-003" heading="MSU Story" text="Game of Change, Integration, Campus Activism" %}
 
 {% include feature/nav-menu.html sections="The MSU Story;Game of Change;Richard Holmes Integrates MSU;Charles Evers and Stokely Carmichael;" %}
 
