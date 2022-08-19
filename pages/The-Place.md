@@ -4,7 +4,7 @@ layout: about
 permalink: /place.html
 credits: false
 ---
-{% include feature/jumbotron.html objectid="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" title="The Place" text="Starkville, MS" %}
+{% include feature/jumbotron.html objectid="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" heading="The Place" text="Starkville, MS" %}
 
 Image: "African-Americans waiting for train, Starkville, 1/1923," <a href="https://scholarsjunction.msstate.edu/mss-rob-sad-wier-papers/1/">Robert and Sadye Wier papers</a>, Special Collections Department, Mississippi State University"
 
