@@ -2,6 +2,7 @@
 title: The Place
 layout: about
 permalink: /place.html
+credits: false
 ---
 {% include feature/jumbotron.html objectid="/assets/img/AfricanAmericans_waiting_for_train_Starkville.jpg" title="The Place" text="Starkville, MS" %}
 
