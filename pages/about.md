@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Project;Contributors;Acknowledgements" %} 
+{% include feature/nav-menu.html sections="About the Project;Share your story;Contributors;Acknowledgements;Funding" %} 
 
 ## About the Project
 
@@ -19,6 +19,10 @@ The purpose of this project is to tell a story of local activism in Starkville, 
 “A Shaky Truce” highlights the civil rights struggles that took place in Starkville, Mississippi during the 1960s and 70s, a time when local African Americans demanded equality for all citizens. This website is designed to tell that story, providing information for scholars and tools for teachers interested in exploring these local conversations about race, equality, and human rights.
 
 The content you see in this website is a result of ongoing research that began in 2014.  Photos and documents are from Mississippi State University Libraries’ Special Collections, Digital Collections, or Circulating Collections; others come from other online archives; still other items were generously donated or shared by those we interviewed.  If you are interested in further research on this or related topics, visit lib.msstate.edu for help getting started.
+
+## Share your story
+
+The interviews on this website are first-hand accounts of events and movements during the 1960s - 1980s in Starkville, Mississippi, and the surrounding areas. If you have a story you'd like to share that relates to the events you see here, please reach out to us! Email us at <a href="mailto:starkvillecivilrights@gmail.com">starkvillecivilrights@gmail.com</a> or visit our <a href="https://www.facebook.com/starkvillecivilrights">Facebook page</a>.
 
 ## Contributors
 
@@ -58,4 +62,7 @@ The content you see in this website is a result of ongoing research that began i
 - Jessica Perkins Smith, Manuscripts Librarian, MSU Libraries
 - Fred Smith, Rare Books Coordinator, MSU Libraries
 
+## Funding
+
+This project was funded in part by the U.S. Institute of Museum and Library Services, the Mississippi Library Commission, the Mississippi Humanities Council, and the Mississippi State University President's Office. 
 
