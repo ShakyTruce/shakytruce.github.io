@@ -25,8 +25,8 @@
 {% if site.data.theme.map-cluster == true %}<link rel="stylesheet" href="{{ '/assets/lib/leaflet/MarkerCluster.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/lib/leaflet/MarkerCluster.Default.css' | relative_url }}">{% endif %}{% endif %}
 
-<!-- load custom css last to allow overrides -->
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" type="text/css">
+<!-- load main css last to allow overrides -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" type="text/css">
 
 {% comment %} 
     Meta tags and analytics are adding during production build ONLY.
